@@ -1,0 +1,53 @@
+{
+    "title": "As Aventuras de PI",
+    "subtitle": "3.1415926535897932384626433832795028",
+    "steps": [
+        {
+            "text": "<p>PI. 3,1415 e provavelmente é só até ai que você sabe, além de claro, a fórmula</p><span class=\"formula\">π = C/d</span>",
+            "hasCanvas": false
+        },
+        {
+            "text": "<p>Saindo um pouco da <span class=\"text-orange\">matemática</span>, PI é provavelmente o número mais \"mágico\" que você vai conhecer. O PI se aventura em todas as disciplinas aqui integradas. O PI está na natureza, desde sempre</p>",
+            "hasCanvas": false
+        },
+        {
+            "text": "<p class=\"mb-4\">E qual o tamanho de π? A verdade é que tentamos calcular isso fazem milhares de anos por pura curiosidade. O primeiro a tentar foi Arquimedes em 250 a.C. Até o século XVII tinhamos 35 dígitos, no século 19 esse número subiu para 707 dígitos.</p>",
+            "hasCanvas": false
+        },
+        {
+            "text": "<p class=\"mb-4\">E aqui entra a <span class=\"text-blue\">programação</span>, o ENIAC em 1949 podia calcular 2000 dígitos. Com nossa tecnologia atual, apenas 60 anos depois, podemos calcular 10 trilhões de dígitos de π.</p>",
+            "hasCanvas": false
+        },
+        {
+            "text": "<p class=\"mb-4\">E por que essa fixação toda ao ponto de calcular 10 trilhões de dígitos? Porque a nossa curiosidade é o que move o mundo. A curiosidade de correr atrás de coisas que parecem impossíveis, a mesma curiosidade que eu quero instigar em você.</p",
+            "hasCanvas": false
+        },
+        {
+            "text": "<p class=\"mb-4\">Para finalizar isso, vou juntar a <span class=\"text-blue\">programação</span> e a <span class=\"text-orange\">matemática</span> para mostrar o quanto π pode ser bonito. O padrão a seguir é formado ao designar um ângulo para cada algarismo, e conectar esses ângulos ao próximo digito da sequência</p>",
+            "hasCanvas": false
+        },
+        {
+            "text": "",
+            "hasCanvas": true
+        },
+        {
+            "text": "<p>π tem diversas outras aplicações e é provável que eu volte a falar dele aqui, mas por enquanto isso é tudo, continuaremos acompanhando no futuro as aventuras de π.</p>",
+            "hasCanvas": false
+        }
+    ],
+    "subjects": [
+        { "name" : "Matemática", "color": "FFF4C242", "relatedSubjects": [] },
+        { "name" : "Computação", "color": "FF185E82", "relatedSubjects": [] }
+    ],
+    "tags": [
+        { "name": "Visualização matemática", "color": "FFF4C242", "relatedTags": [] } 
+    ],
+    "rewards": [
+        { 
+            "name": "OoBucks", 
+            "resources": [
+                { "name": "OoBuck", "value": 100 }
+            ] 
+        }
+    ]
+}
